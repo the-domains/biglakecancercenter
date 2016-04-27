@@ -1,0 +1,28 @@
+name: biglakecancercenter
+favicon: null
+layout_spectrum: 0.20021457923576236
+typography_spectrum: 0.026847731322050095
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9840836296789348
+  lightness: 0.7863029828295112
+  saturation: 0.2716102609410882
+  rhythmicContrast: 0.28054187493398786
+purpose: []
