@@ -1,7 +1,7 @@
 name: biglakecancercenter
 favicon: null
-layout_spectrum: 0.43919
-typography_spectrum: 0.11696
+layout_spectrum: 0.00236
+typography_spectrum: 0.11108
 title: One to One Cancer Care
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.9840836296789348
-  lightness: 0.7863029828295112
-  saturation: 0.2716102609410882
-  rhythmicContrast: 0.5
+  brandStrength: 0.5625
+  lightness: 0.4375
+  saturation: 0.0625
+  rhythmicContrast: 0.25
 purpose: []
