@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[One to One Cancer Care]]></title>
         <description><![CDATA[One to One Cancer Care]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/biglakecancercenter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 14:33:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 14:34:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/biglakecancercenter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Cancer Care and the Health Care System: Dysfunctional?</p>]]></description>
+            <link>https://thegrid.ai/biglakecancercenter/cancer-care-and-the-health-care-system-dysfunctional/index.html</link>
+            <guid isPermaLink="false">755dac97-fb8c-4bd1-843a-aa43a244081b</guid>
+            <pubDate>Wed, 27 Apr 2016 14:34:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Immunotherapy: The new weapon against Cancer..</p>]]></description>
-            <link>undefinedimmunotherapy-the-new-weapon-against-cancer/index.html</link>
+            <link>https://thegrid.ai/biglakecancercenter/immunotherapy-the-new-weapon-against-cancer/index.html</link>
             <guid isPermaLink="false">3d4265f4-8bf8-4b51-ba47-ecb60b6d617c</guid>
             <pubDate>Wed, 27 Apr 2016 14:33:29 GMT</pubDate>
         </item>
